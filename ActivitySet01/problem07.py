@@ -1,3 +1,4 @@
-# Strings
+NAME="MANJUNATH"
+name="arjun"
+print(name)
 
-text = "X-DSPAM-Confidence:    0.8475"
